@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/json",
+        "url": "https://pkg.go.dev/encoding/json"
+    },
+    {
+        "path": "/nike",
+        "url": "https://nike.com"
+    }
+]
